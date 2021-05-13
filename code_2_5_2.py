@@ -1,3 +1,4 @@
+import random
 names = ['dhhgfjjhsa.txt', 'hhdsdahffh.txt', 'afdgdhjsds.txt',
          'sggjghddss.txt', 'fjdjgdghdf.txt', 'sjssahjfga.txt',
          'agsgdjhhfj.txt', 'gafadhadda.txt', 'hdagajfhhj.txt',
